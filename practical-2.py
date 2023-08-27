@@ -1,0 +1,10 @@
+name = input("Please enter your name: ")
+contact_number = input("Please enter your contact number: ")
+email = input("Please enter your email address: ")
+birthdate = input("Please enter your birthdate: ")
+
+print("\nHere are your details:")
+print("Name:", name)
+print("Contact Number:", contact_number)
+print("Email:", email)
+print("Birthdate:", birthdate)

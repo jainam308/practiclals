@@ -1,0 +1,8 @@
+t=('jainam',1,2,20.5,-32)
+print(t)
+x=list(t)
+print(x)
+x.remove(2)
+print(x)
+t=tuple(x)
+print(t)
